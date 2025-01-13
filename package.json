@@ -2,7 +2,7 @@
   "name": "midnight-candy",
   "displayName": "Midnight Candy",
   "description": "Dark VS Code theme",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "publisher": "ravgoundar",
   "engines": {
     "vscode": "^1.96.0"
@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/ravgoundar/midnight_candy.git"
   },
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
