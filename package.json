@@ -2,7 +2,7 @@
   "name": "midnight-candy",
   "displayName": "Midnight Candy",
   "description": "Dark VS Code theme",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "publisher": "ravgoundar",
   "engines": {
     "vscode": "^1.96.0"
@@ -19,7 +19,7 @@
       {
         "label": "Midnight Candy",
         "uiTheme": "vs-dark",
-        "path": "./themes/midney-candy-color-theme.json"
+        "path": "./themes/midnight-candy-color-theme.json"
       }
     ]
   }
