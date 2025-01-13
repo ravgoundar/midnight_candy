@@ -4,6 +4,10 @@ All notable changes to the "midnight-candy" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 2025-01-13
 
 - Initial release
+
+## [1.0.1] - 2025-01-13
+
+- Fixed iconforeground colour to match sideBarSectionHeader.foreground
