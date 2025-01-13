@@ -11,3 +11,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1] - 2025-01-13
 
 - Fixed iconforeground colour to match sideBarSectionHeader.foreground
+
+## [1.0.2] - 2025-01-13
+
+- Reverted iconforeground colour
+- Updated sideBarSectionHeader colours to better show light icons
+- Updated sideBar.background to show contrast vs section headers
+- Updated focusBorder to transparent
