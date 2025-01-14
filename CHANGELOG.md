@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0] - 2025-01-14
 
 - Initial release
+
+## [1.1.0] - 2025-01-14
+
+- Fixed terminalCursor.foreground
