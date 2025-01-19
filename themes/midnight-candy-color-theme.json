@@ -75,11 +75,7 @@
     },
     {
       "name": "storage, decorators",
-      "scope": [
-        "storage",
-        "entity.name",
-        "keyword.control.at-rule"
-      ],
+      "scope": ["storage", "entity.name", "keyword.control.at-rule"],
       "settings": {
         "foreground": "#10ccb3"
       }
@@ -226,7 +222,7 @@
     "badge.background": "#ffffff4d",
     "badge.foreground": "#0d1017e6",
     "terminal.foreground": "#ffffffcc",
-    "terminal.selectionBackground": "#ffffff0d",
+    "terminal.selectionBackground": "#ffffff4c",
     "terminalCursor.background": "#ecb546",
     "terminalCursor.foreground": "#ffffffcc",
     "terminal.border": "#25272e",

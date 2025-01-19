@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.1.0] - 2025-01-14
 
 - Fixed terminalCursor.foreground
+
+## [1.1.1] - 2025-01-20
+
+- Updated terminal.selectionBackground for better visibility
